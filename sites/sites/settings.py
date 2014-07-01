@@ -15,8 +15,8 @@ DATABASES = {
         'NAME': 'django',   # Or path to database file if using sqlite3.
         # The following settings are not used with sqlite3:
         'USER': 'root',
-        'PASSWORD': 'root', # back in home
-        # 'PASSWORD': '', # in office 
+        # 'PASSWORD': 'root', # back in home
+        'PASSWORD': '', # in office 
         'HOST': '',                      # Empty for localhost through domain sockets or '127.0.0.1' for localhost through TCP.
         'PORT': '3306',                      # Set to empty string for default.
     }
